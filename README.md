@@ -14,6 +14,11 @@
  * SALT ERTH
  * BRRN SOIL
  * BLD(disembodied head dripping blood) WTR(sprinkler shooting blood)
+ * DIRT RULZ
+ * STOP SEED
+ * PLNT LESS
+ * BURN BUSH
+ * LAND LOCK
 
 ## GNAR
 
