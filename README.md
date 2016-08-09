@@ -19,6 +19,9 @@
  * PLNT LESS
  * BURN BUSH
  * LAND LOCK
+ * BLAD BLAD (blade blade, i.e a lawnmower)
+ * TURF SUKS
+ * FYOU FSCU (fuck you, fescue)
 
 ## GNAR
 
